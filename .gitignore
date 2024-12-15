@@ -1,0 +1,4 @@
+/server/node_modules
+# /server/2.txt
+/client/node_modules
+/client/public
